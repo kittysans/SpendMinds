@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Montserrat, sans-serif;
+}
+:root {
+    --Font-Size-Smaller: 10px;
+    --Font-Size-Small: 13px;
+    --Font-Size-Large: 15px;
+    --Font-Size-Larger: 18px;
+    --Font-Size-Icon: 50px;
+
+    --Font-Size-For-Content: 12px;
+    --Font-Size-Small-Of-History-Section: 10px;
+    --Font-Size-Amount-Cost: 15px;
+    --Font-Size-For-Nav: 15px;
+    --Font-Size-Button-Nav: 12px;
+    --Font-Size-For-Profile-Name: 13px;
+    --Font-Size-For-Warning-Icon: 8px;
+    --Font-Size-For-Nav-Menu: 18px;
+
+    --Shadow-Nav-Color: #eee;
+    --Shadow-Content-Color: #e5e5e5;
+    --White-Color: #fff;
+    --Gray-Color: #ccc;
+    --Black-Color: #000;
+    --Blue-Color: #ade8f4;
+    --Red-Color: red;
+    --Bg-Color: #F1F6F9;
+    --Green-Color: yellowgreen;
+}
